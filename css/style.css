@@ -89,7 +89,6 @@ footer
 .link1
 {
   text-align: center;
-  text-decoration: bold;
   font-size: 50px;
   font-family: serif;
 }
@@ -103,17 +102,21 @@ footer
 
 a:link {
   color: #5e0808;
+  text-decoration: bold;
 }
 
 a:visited {
-  color: #5e0808;  
+  color: #5e0808;
+  text-decoration: bold;  
 }
 
 a:hover {
   color: white;
+  text-decoration: bold;
 }
 
 a:active {
   color: white;
+  text-decoration: bold;
 } 
 
